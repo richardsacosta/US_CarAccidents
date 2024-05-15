@@ -1,2 +1,4 @@
-# US_CarAccidents
-We implemented thorough data cleaning processes and constructed various unsupervised and supervised learning models, including benchmarking. (Logistic regression, decision tree postpruned, random forest and boosted tree).
+# USA Car Accidents
+In this project, we conducted an analysis using a Kaggle dataset, encompassing car accident information across 49 U.S. states from February 2016 to December 2021. The raw data comprises 2.8 million records with 30 attributes, offering a rich source for exploration and insights. Our primary objective was to develop models capable of predicting accident severity based on factors such as weather, road conditions, and time of day.
+
+We implemented thorough data cleaning processes and constructed various unsupervised and supervised learning models, including benchmarking. Notably, among the supervised learning models (Logistic regression, decision tree postpruned, random forest and boosted tree), the random forest model demonstrated the most robust overall performance. Additionally, our analysis identified critical weather conditions (temperature, humidity, wind speed, pressure), road conditions (junctions, traffic signals), and specific times (night, non-workday, non-rush hour) that are associated with increased accident severity
